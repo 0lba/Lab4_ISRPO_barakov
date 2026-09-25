@@ -62,6 +62,13 @@ $$
 ## Ссылки на репозиторий
 [github](https://github.com/0lba/Lab4_ISRPO_barakov "перейти по ссылке")
 ## Скриншоты из папки repo
-
+- открытая страница index.html
+![](/repo/browser_barakov.png)
+- работа программы в терминале
+![](/repo/backend_barakov.png)
+- структура с папками
+![](/repo/terminal_barakov.png)
+- история коммитов в GitHub
+![](/repo/git_barakov.png)
 ## Заключение
 В ходе выполнения лабораторной работы №4 были успешно закреплены навыки работы с Git, Markdown, терминалом и проектной структурой.
