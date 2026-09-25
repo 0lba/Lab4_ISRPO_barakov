@@ -1,0 +1,15 @@
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.sourcelink.json
+D:\project\Lab4_ISRPO_barakov\server\bin\Debug\net10.0\server.exe
+D:\project\Lab4_ISRPO_barakov\server\bin\Debug\net10.0\server.deps.json
+D:\project\Lab4_ISRPO_barakov\server\bin\Debug\net10.0\server.runtimeconfig.json
+D:\project\Lab4_ISRPO_barakov\server\bin\Debug\net10.0\server.dll
+D:\project\Lab4_ISRPO_barakov\server\bin\Debug\net10.0\server.pdb
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.dll
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\refint\server.dll
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.pdb
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+D:\project\Lab4_ISRPO_barakov\server\obj\Debug\net10.0\ref\server.dll
